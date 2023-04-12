@@ -91,8 +91,7 @@ TIM7->DIER |= TIM_DIER_UIE;
  TIM7->CR1 |= TIM_CR1_CEN;
 
 
-  //NVIC_SetPriority(TIM7_IRQn, 0);
-  //NVIC_EnableIRQ(TIM7_IRQn);
+
 }
 
 
