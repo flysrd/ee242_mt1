@@ -26,7 +26,7 @@
 //Arrnumber=65535
 //Duration=8820
 //Ledpinnumber=14
-// Timer numarası
+
 
 
 /* USER CODE END Header */
